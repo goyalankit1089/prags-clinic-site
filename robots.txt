@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://goyalankit1089.github.io/prags-clinic-site/sitemap.xml
