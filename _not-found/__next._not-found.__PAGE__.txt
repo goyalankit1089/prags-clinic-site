@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+6:X
+1b:X
+1b:C
+0:{"buildId":"ChExQpRkqN2V43CZ1BGre","data":[{"rsc":["$","$1","c",{"children":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#2d2522"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Prag's Physiotherapy Clinic | Best Physiotherapist in Sector 62, Noida"}],["$","meta","1",{"name":"description","content":"Prag's Physiotherapy Clinic — trusted physiotherapist in Sector 62, Noida, behind Fortis Hospital. Dr. Anshu Singla (Sr. Consultant Physiotherapist, 20+ yrs) treats back pain, neck/cervical pain, knee & joint pain, sciatica, sports injuries, migraine & vertigo. Certified dry needling & cupping therapy. 4.9★ (179 reviews). Book on WhatsApp."}],["$","meta","2",{"name":"application-name","content":"Prag’s Physiotherapy Clinic"}],["$","meta","3",{"name":"author","content":"Dr. Anshu Singla"}],["$","meta","4",{"name":"keywords","content":"physiotherapist in Noida,physiotherapy clinic in Noida,best physiotherapist in Noida,physiotherapy clinic Sector 62 Noida,physiotherapist Sector 62 Noida,physiotherapy near me Noida,physiotherapy near Fortis Hospital Noida,physiotherapist Sector 61 62 63 Noida,Prag's Physiotherapy Clinic,Prags Physiotherapy Noida,Dr Anshu Singla physiotherapist,back pain treatment Noida,cervical pain physiotherapy Noida,neck pain physiotherapist Noida,knee pain treatment Noida,sciatica treatment Noida,frozen shoulder treatment Noida,sports injury physiotherapy Noida,slip disc treatment Noida,vertigo treatment Noida,migraine physiotherapy Noida,dry needling Noida,cupping therapy Noida,manual therapy Noida"}],["$","meta","5",{"name":"creator","content":"Prag’s Physiotherapy Clinic"}],["$","meta","6",{"name":"publisher","content":"Prag’s Physiotherapy Clinic"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"category","content":"Health"}],["$","meta","10",{"name":"geo.region","content":"IN-UP"}],["$","meta","11",{"name":"geo.placename","content":"Noida, Sector 62"}],["$","meta","12",{"name":"geo.position","content":"28.6196627;77.3701851"}],["$","meta","13",{"name":"ICBM","content":"28.6196627, 77.3701851"}],["$","link","14",{"rel":"canonical","href":"https://pragsphysiotherapy.com/"}],["$","meta","15",{"property":"og:title","content":"Prag's Physiotherapy Clinic — Best Physiotherapist in Sector 62, Noida"}],["$","meta","16",{"property":"og:description","content":"20+ years of trusted physiotherapy in Sector 62, Noida, behind Fortis Hospital. Back, neck, knee & nerve pain · dry needling · cupping. 4.9★ (179 reviews). Book on WhatsApp."}],"$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"]}]}]}],"$L17"]}],"isPartial":"$@18","staleTime":"$6","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$6","varyParams":"$1b"}],"isUpgradeableISRFallback":false,"a":"$@1c","rootVaryParams":null,"needsRuntimeRequest":"$@1d"}
+1e:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1f:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+20:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:null
+9:["$","meta","17",{"property":"og:url","content":"https://pragsphysiotherapy.com/"}]
+a:["$","meta","18",{"property":"og:site_name","content":"Prag’s Physiotherapy Clinic"}]
+b:["$","meta","19",{"property":"og:locale","content":"en_IN"}]
+c:["$","meta","20",{"property":"og:image","content":"https://pragsphysiotherapy.com/og-image.jpg"}]
+d:["$","meta","21",{"property":"og:image:width","content":"1200"}]
+e:["$","meta","22",{"property":"og:image:height","content":"630"}]
+f:["$","meta","23",{"property":"og:image:alt","content":"Prag’s Physiotherapy Clinic — Physiotherapist in Sector 62, Noida"}]
+10:["$","meta","24",{"property":"og:type","content":"website"}]
+11:["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}]
+12:["$","meta","26",{"name":"twitter:title","content":"Prag's Physiotherapy Clinic — Physiotherapist in Sector 62, Noida"}]
+13:["$","meta","27",{"name":"twitter:description","content":"20+ years of trusted physiotherapy in Noida. Dry needling · cupping · pain relief. 4.9★. Book on WhatsApp."}]
+14:["$","meta","28",{"name":"twitter:image","content":"https://pragsphysiotherapy.com/og-image.jpg"}]
+15:["$","link","29",{"rel":"icon","href":"/icon.svg?icon.2fuarp7_20sek.svg","sizes":"any","type":"image/svg+xml"}]
+16:["$","$L1e","30",{}]
+17:["$","meta",null,{"name":"next-size-adjust","content":""}]
+19:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+1d:true
+6:300
+6:C
+1c:0
+1a:"$undefined"
+5:"$undefined"
+18:"$undefined"

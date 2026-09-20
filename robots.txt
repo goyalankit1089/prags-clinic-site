@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://pragsphysiotherapy.com/sitemap.xml
